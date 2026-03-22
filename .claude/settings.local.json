@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python \"real interest-real gold.py\")",
+      "Bash(python -c \":*)"
+    ]
+  }
+}
